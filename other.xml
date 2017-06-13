@@ -2,11 +2,13 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="https://github.com/diegoflores93/FinalPets" />
         <option value="https://github.com/diegoflores93/CourseraPets" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://github.com/diegoflores93/FinalPets" />
         <option value="https://github.com/diegoflores93/CourseraPets" />
       </list>
     </option>
